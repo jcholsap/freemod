@@ -14,7 +14,6 @@ Many people around the globe, not just the wealthy, need a secure, modifiable, u
 Freemod.blue aims to change all that!
 
 Personal computing power really hasn't changed in five years. It's obvious that advancements are focused on power consumption. That's nice. But riddle me this:
-        1. What about the tonnes of e-waste?
-        2. How about letting us modify our own devices?
-        3. Are you secure with an embedded computer "managing" your personal computing device?
-
+* What about the tonnes of e-waste?
+* How about letting us modify our own devices?
+* Are you secure with an embedded computer "managing" your personal computing device?
