@@ -2,10 +2,10 @@
 
 freemod / 'fri-mɒd /
 adjective, freemodd·er, freemodd·est.
-1. enjoying personal computing rights or liberty, as a person who is not controlled by corporate or state entities:a land of people free to customize their computing  devices.
-2. pertaining to or reserved for those who enjoy personal computing liberty:They were thankful to be securely computing on a usable device.
+1. enjoying personal computing rights or liberty, as a person who is not controlled by corporate or state entities: "a land of people free to customize their computing  devices."
+2. pertaining to or reserved for those who enjoy personal computing liberty: "They were thankful to be securely computing on a usable device."
 
-State Actors and Corporate Entities Try to Control You
+State Actors and Corporate Entities Try to Control You!
 From State owned backdoors to corporate device obsoletion, the hurdle to you truly owning your computing device is nearly insurmountable, until now.
 
 Who needs secure, modifiable, usable computing?
