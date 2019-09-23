@@ -8,8 +8,8 @@ adjective, freemodd·er, freemodd·est.
 State Actors and Corporate Entities Try to Control You!
 From State owned backdoors to corporate device obsoletion, the hurdle to you truly owning your computing device is nearly insurmountable, until now.
 
-Who needs secure, modifiable, usable computing?
-Many people around the globe, not just the wealthy, need a secure, modifiable, usable computing device. But State actors pressure their indigenous corporations to create backdoors. And, corporations design their products for obsoletion to create consumable, rather than durable, personal computers.
+Who needs securable, modifiable, usable computing?
+Many people around the globe, not just the wealthy, need a securable, modifiable, usable computing device. But State actors pressure their indigenous corporations to create backdoors. And, corporations design their products for obsoletion to create consumable, not durable, devices.
 
 Freemod.blue aims to change all that!
 
